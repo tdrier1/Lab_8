@@ -1,0 +1,6 @@
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_8\Lab_8\obj\Debug\Lab_8.csprojResolveAssemblyReference.cache
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
